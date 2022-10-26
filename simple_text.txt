@@ -1,0 +1,5 @@
+ 
+
+A full stack developer is a type of software developer that can perform front end and back end operations plus has a good comprehensive set of programming skills, programming languages and problem solving aptitude. This means the developer can build the back end and front end of web applications.
+
+some lungages and tools used are: HTML, CSS and javaScript, back end technologies and database structures, nano, vim editor.....
